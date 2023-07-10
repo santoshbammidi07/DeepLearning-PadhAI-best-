@@ -2,7 +2,7 @@
 
 <p align="center"><img width="40%" src="1_assests/logo.png" /></p>
 
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 
 This repository contains the code files taught from the deep learning course from [PadhAI](https://padhai.onefourthlabs.in/).
 
